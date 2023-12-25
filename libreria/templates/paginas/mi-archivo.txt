@@ -1,2 +1,2 @@
-¡Hola, JavaScript!
-estoy aprendiendo git.      
+¡Hola, JavaScript!¡Hola, JavaScript!
+estoy aprendiendo 
